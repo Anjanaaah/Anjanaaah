@@ -46,9 +46,6 @@
 ### 🔐 Human Neuroperception CAPTCHA
 An AI-resistant authentication system inspired by human cognition and perception.
 
-### 🚚 ROBUST-RAG BOT
-An autonomous van-bot cooperative delivery system powered by Reinforcement Learning.
-
 ### 🌐 Personal Portfolio Website
 A platform showcasing my projects, skills, and journey as a developer.
 
